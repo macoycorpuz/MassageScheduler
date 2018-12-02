@@ -61,6 +61,7 @@ public class History extends Fragment implements OnMapReadyCallback{
     AsyncTask myTask;
     //endregion
 
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
