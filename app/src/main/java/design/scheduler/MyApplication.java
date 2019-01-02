@@ -5,7 +5,7 @@ import android.app.Application;
 import com.google.android.gms.maps.model.LatLng;
 
 public class MyApplication extends Application {
-    private String webSerAddress = "192.168.1.9";
+    private String webSerAddress = "http://daryl-kiel-mora.000webhostapp.com";
     private LatLng remoteLocation = new LatLng(14.5905251, 120.9781245);
     private double radius = 50; //meters
 
