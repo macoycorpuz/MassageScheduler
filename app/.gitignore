@@ -1,2 +1,2 @@
-/build
-!/build/outputs/apk/debug
+/build/*
+!/build/outputs/apk/debug/*

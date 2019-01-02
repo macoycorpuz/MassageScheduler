@@ -6,7 +6,7 @@
 /.idea/modules.xml
 /.idea/workspace.xml
 .DS_Store
-/build
 /captures
 .externalNativeBuild
-!/build/outputs/apk/debug
+/build/*
+!/build/outputs/apk/debug/*
